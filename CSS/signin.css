@@ -33,6 +33,7 @@ body {
 }
 
 .form-group label{
+    text-align: left;
     font-size: 14px;
     display: block;
     margin-bottom: 6px;
@@ -67,6 +68,6 @@ body {
 }
 
 .goToLogin a{
-    color: ;
+    color: #2563eb;
     text-decoration: none;
 }
